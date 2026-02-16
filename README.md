@@ -95,12 +95,20 @@ The database uses 14 tables with proper relationships and indexing for performan
 
 | Homepage | Property Listing | Property Details |
 |----------|------------------|------------------|
-| [View](_screenshots/01-homepage/) | [View](_screenshots/02-property-listing/) | [View](_screenshots/03-property-details/) |
+| ![Homepage](_screenshots/01-homepage/homepage-full.png) | ![Listing](_screenshots/02-property-listing/listing-page-with-filters.png) | ![Details](_screenshots/03-property-details/property-details-full.png) |
 
 | User Dashboard | Admin Panel | Mobile View |
 |----------------|-------------|-------------|
-| [View](_screenshots/04-user-dashboard/) | [View](_screenshots/05-admin-panel/) | [View](_screenshots/06-mobile/) |
+| ![Dashboard](_screenshots/04-user-dashboard/dashboard-home.png) | ![Admin](_screenshots/05-admin-panel/admin-dashboard.png) | ![Mobile](_screenshots/06-mobile/mobile-homepage.png) |
 
+### Full Galleries
+
+- [Homepage Screenshots](_screenshots/01-homepage/) - Hero, featured properties, features section
+- [Property Listing](_screenshots/02-property-listing/) - Filter sidebar, grid/list views, search results
+- [Property Details](_screenshots/03-property-details/) - Gallery, details, contact form
+- [User Dashboard](_screenshots/04-user-dashboard/) - Login, registration, saved properties
+- [Admin Panel](_screenshots/05-admin-panel/) - Property management, inquiries, users
+- [Mobile Views](_screenshots/06-mobile/) - Responsive design on phone screens
 ---
 
 ## Technical Implementation
