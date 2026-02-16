@@ -1,0 +1,14 @@
+# Ignore everything
+*
+
+# Except these directories and files
+!.gitignore
+!README.md
+!_docs/
+!_screenshots/
+!_docs/**
+!_screenshots/**
+!*.md
+
+# Keep git directory
+!.git/
