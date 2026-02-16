@@ -95,7 +95,7 @@ The database uses 14 tables with proper relationships and indexing for performan
 
 | Homepage | Property Listing | Property Details |
 |----------|------------------|------------------|
-| ![Homepage](_screenshots/01-homepage/homepage-full.png) | ![Listing](_screenshots/02-property-listing/listing-page-with-filters.png) | ![Details](_screenshots/03-property-details/property-details-full.png) |
+| ![Homepage](_screenshots/01-homepage/homepage-full.png) | ![Listing](_screenshots/02-property-listing/listing-page-with-filters.png) | ![Details](_screenshots/03-property-details/property-details-section.png) |
 
 | User Dashboard | Admin Panel | Mobile View |
 |----------------|-------------|-------------|
